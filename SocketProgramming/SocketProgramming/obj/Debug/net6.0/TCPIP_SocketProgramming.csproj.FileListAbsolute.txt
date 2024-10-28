@@ -1,0 +1,14 @@
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\obj\Debug\net6.0\TCPIP_SocketProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\obj\Debug\net6.0\TCPIP_SocketProgramming.AssemblyInfoInputs.cache
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\obj\Debug\net6.0\TCPIP_SocketProgramming.AssemblyInfo.cs
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\obj\Debug\net6.0\TCPIP_SocketProgramming.csproj.CoreCompileInputs.cache
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\bin\Debug\net6.0\TCPIP_SocketProgramming.exe
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\bin\Debug\net6.0\TCPIP_SocketProgramming.deps.json
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\bin\Debug\net6.0\TCPIP_SocketProgramming.runtimeconfig.json
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\bin\Debug\net6.0\TCPIP_SocketProgramming.dll
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\bin\Debug\net6.0\TCPIP_SocketProgramming.pdb
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\obj\Debug\net6.0\TCPIP_SocketProgramming.dll
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\obj\Debug\net6.0\refint\TCPIP_SocketProgramming.dll
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\obj\Debug\net6.0\TCPIP_SocketProgramming.pdb
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\obj\Debug\net6.0\TCPIP_SocketProgramming.genruntimeconfig.cache
+C:\Users\cedon\source\repos\SocketProgramming\SocketProgramming\obj\Debug\net6.0\ref\TCPIP_SocketProgramming.dll

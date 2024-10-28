@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Server_TCPIP_SocketProgramming": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

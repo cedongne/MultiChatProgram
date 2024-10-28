@@ -1,0 +1,16 @@
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\MultiChatClient.ChatView.resources
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\MultiChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfoInputs.cache
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfo.cs
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\bin\Debug\net8.0-windows\MultiChatClient.exe
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\bin\Debug\net8.0-windows\MultiChatClient.deps.json
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\bin\Debug\net8.0-windows\MultiChatClient.runtimeconfig.json
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\bin\Debug\net8.0-windows\MultiChatClient.dll
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\bin\Debug\net8.0-windows\MultiChatClient.pdb
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\MultiChatClient.dll
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\refint\MultiChatClient.dll
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\MultiChatClient.pdb
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\MultiChatClient.genruntimeconfig.cache
+C:\Users\cedon\Documents\GitHub\MultiChatProgram\MultiChatClient\MultiChatClient\obj\Debug\net8.0-windows\ref\MultiChatClient.dll

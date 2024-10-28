@@ -1,0 +1,14 @@
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\bin\Debug\net8.0\Client_TCPIP_SocketProgramming.exe
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\bin\Debug\net8.0\Client_TCPIP_SocketProgramming.deps.json
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\bin\Debug\net8.0\Client_TCPIP_SocketProgramming.runtimeconfig.json
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\bin\Debug\net8.0\Client_TCPIP_SocketProgramming.dll
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\bin\Debug\net8.0\Client_TCPIP_SocketProgramming.pdb
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\obj\Debug\net8.0\Client_TCPIP_SocketProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\obj\Debug\net8.0\Client_TCPIP_SocketProgramming.AssemblyInfoInputs.cache
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\obj\Debug\net8.0\Client_TCPIP_SocketProgramming.AssemblyInfo.cs
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\obj\Debug\net8.0\Client_TCPIP_SocketProgramming.csproj.CoreCompileInputs.cache
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\obj\Debug\net8.0\Client_TCPIP_SocketProgramming.dll
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\obj\Debug\net8.0\refint\Client_TCPIP_SocketProgramming.dll
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\obj\Debug\net8.0\Client_TCPIP_SocketProgramming.pdb
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\obj\Debug\net8.0\Client_TCPIP_SocketProgramming.genruntimeconfig.cache
+C:\Users\cedon\source\repos\SocketProgramming\Client_TCPIP_SocketProgramming\obj\Debug\net8.0\ref\Client_TCPIP_SocketProgramming.dll
