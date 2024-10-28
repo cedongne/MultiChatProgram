@@ -3,7 +3,7 @@ using System.Net.Sockets;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace Server_TCPIP_SocketProgramming
+namespace MultiChatServer
 {
     internal partial class MultiClientServer
     {

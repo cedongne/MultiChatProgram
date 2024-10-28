@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\SocketProgramming\\Server_TCPIP_SocketProgramming.csproj",
-      "projectName": "Server_TCPIP_SocketProgramming",
-      "projectPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\SocketProgramming\\Server_TCPIP_SocketProgramming.csproj",
+      "projectUniqueName": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\SocketProgramming\\MultiChatServer.csproj",
+      "projectName": "MultiChatServer",
+      "projectPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\SocketProgramming\\MultiChatServer.csproj",
       "packagesPath": "C:\\Users\\cedon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\SocketProgramming\\obj\\",
       "projectStyle": "PackageReference",

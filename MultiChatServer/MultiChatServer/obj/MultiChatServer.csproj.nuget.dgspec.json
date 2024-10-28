@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\Client_TCPIP_SocketProgramming\\Client_TCPIP_SocketProgramming.csproj": {}
+    "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\SocketProgramming\\MultiChatServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\Client_TCPIP_SocketProgramming\\Client_TCPIP_SocketProgramming.csproj": {
+    "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\SocketProgramming\\MultiChatServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\Client_TCPIP_SocketProgramming\\Client_TCPIP_SocketProgramming.csproj",
-        "projectName": "Client_TCPIP_SocketProgramming",
-        "projectPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\Client_TCPIP_SocketProgramming\\Client_TCPIP_SocketProgramming.csproj",
+        "projectUniqueName": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\SocketProgramming\\MultiChatServer.csproj",
+        "projectName": "MultiChatServer",
+        "projectPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\SocketProgramming\\MultiChatServer.csproj",
         "packagesPath": "C:\\Users\\cedon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\Client_TCPIP_SocketProgramming\\obj\\",
+        "outputPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\SocketProgramming\\SocketProgramming\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cedon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

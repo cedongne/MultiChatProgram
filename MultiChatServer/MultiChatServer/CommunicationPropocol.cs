@@ -1,9 +1,8 @@
 ﻿using System.Net.Sockets;
 using System.Net;
 using System.Text;
-using System.Reflection.PortableExecutable;
 
-namespace Server_TCPIP_SocketProgramming
+namespace MultiChatServer
 {
     internal partial class MultiClientServer
     {
