@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\MultiChatServer\\MultiChatServer\\MultiChatServer.csproj": {}
+    "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\MultiChatAppProtocol\\MultiChatAppProtocol\\MultiChatAppProtocol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\MultiChatServer\\MultiChatServer\\MultiChatServer.csproj": {
+    "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\MultiChatAppProtocol\\MultiChatAppProtocol\\MultiChatAppProtocol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\MultiChatServer\\MultiChatServer\\MultiChatServer.csproj",
-        "projectName": "MultiChatServer",
-        "projectPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\MultiChatServer\\MultiChatServer\\MultiChatServer.csproj",
+        "projectUniqueName": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\MultiChatAppProtocol\\MultiChatAppProtocol\\MultiChatAppProtocol.csproj",
+        "projectName": "MultiChatAppProtocol",
+        "projectPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\MultiChatAppProtocol\\MultiChatAppProtocol\\MultiChatAppProtocol.csproj",
         "packagesPath": "C:\\Users\\cedon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\MultiChatServer\\MultiChatServer\\obj\\",
+        "outputPath": "C:\\Users\\cedon\\Documents\\GitHub\\MultiChatProgram\\MultiChatAppProtocol\\MultiChatAppProtocol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cedon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

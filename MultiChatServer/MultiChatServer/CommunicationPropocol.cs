@@ -1,6 +1,8 @@
 ﻿using System.Net.Sockets;
 using System.Net;
 using System.Text;
+using MultiChatAppProtocol;
+using System.Text.Json;
 
 namespace MultiChatServer
 {
@@ -67,7 +69,7 @@ namespace MultiChatServer
                 String message = "Hello, Client! Welcome to cedongne's server! Please send me message!";
                 Writer.WriteLine(message);
 
-                String? temp;
+                String? serializedData;
 
                 while (true)
                 {
@@ -77,11 +79,18 @@ namespace MultiChatServer
                     }
                     try
                     {
-                        temp = Reader?.ReadLine();
+                        serializedData = Reader?.ReadLine() ?? String.Empty;
+                        var deserializedMessage = JsonSerializer.Deserialize<MessageDataForm>(serializedData);
+                        if(deserializedMessage == null)
+                        {
+                            continue;
+                        }
 
-                        Console.WriteLine(temp);
+                        message = deserializedMessage.ToStringForChatView();
 
-                        Writer.WriteLine(temp);
+                        Console.WriteLine(message);
+
+                        Writer.WriteLine(deserializedMessage);
                     }
                     catch(Exception ex)
                     {

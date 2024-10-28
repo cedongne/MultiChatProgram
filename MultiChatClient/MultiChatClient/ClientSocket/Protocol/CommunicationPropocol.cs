@@ -1,9 +1,7 @@
-﻿using System;
-using System.IO;
-using System.Net.Sockets;
+﻿using System.Net.Sockets;
 using System.Text;
 using System.Text.Json;
-using System.Windows.Forms;
+using MultiChatAppProtocol;
 
 namespace MultiChatClient.ClientSocket.Protocol
 {
